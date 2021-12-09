@@ -5,7 +5,7 @@ controls a single set of LEDs, but I plan on extending the project to have multi
 
 # Files
 
--"NodeMCU.ESP8266.ino" is the file containing the Web Server. The web server displayed depends on which button on top is pressed. 
+- "NodeMCU.ESP8266.ino" is the file containing the Web Server. The web server displayed depends on which button on top is pressed. 
 Currently there is only one webpage, "DeskLights.h", but as I add more ESP8266's, there will be an individual web page to control each unit.
--"DeskLights.h" contains the webpage being hosted by Web Server, in the format of a rawliteral string. 
+- "DeskLights.h" contains the webpage being hosted by Web Server, in the format of a rawliteral string. 
 
