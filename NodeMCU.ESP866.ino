@@ -36,8 +36,8 @@ uint8_t deskAddress[] = {0xAC, 0x0B, 0xFB, 0xCE, 0xBE, 0xDD };
 
 AsyncWebServer server(80);
 
-const char* ssid = "NETGEAR13";
-const char* password = "vanillatrain121";
+const char* ssid = "*****";
+const char* password = "*********";
 
 // addressing the buttons to control which web page to send.
 const char* CL_BTN = "clbtn";
